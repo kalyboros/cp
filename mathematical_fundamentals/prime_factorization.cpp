@@ -40,7 +40,7 @@ void primeFact(int n){
 
     }
 }
-
+/*
 int main(){
     int n = 234;
 
@@ -60,3 +60,4 @@ int main(){
     }
     return 0;
 }
+*/

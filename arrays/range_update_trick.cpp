@@ -43,6 +43,7 @@ void makeZeros(int s[], int b[], int n){
 }
 
 //this should only be used when you have all the updates at the beginning of task
+/*
 int main(){
     int nmax = 5;
     int a[] = {1,2,3,4,5};
@@ -64,5 +65,5 @@ int main(){
 
     return 0;
 }
-
+*/
 

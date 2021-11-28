@@ -46,7 +46,7 @@ int fastExpoIt(int a, long long n, int MOD){
     }
     return ans;
 }
-
+/*
 int main(){
 
     int a = 5;
@@ -61,4 +61,4 @@ int main(){
 
     return 0;
 }
-
+*/

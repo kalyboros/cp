@@ -40,11 +40,14 @@ int killMonster(int hp, int K, vector<int>dmg){
             K--;
         }
 
+        //if we didnt get our hp in surplus, we stop fighting at the current monster
         if(hp < 0) return i;
+        //if we can still overcome this current monster, we can get to next one and then lose
         if(hp == 0) return i+1;
 
     }
 
+    //we can fight them all
     return dmg.size();
 
 }

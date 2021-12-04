@@ -68,7 +68,7 @@ double fractionalKnapsack(struct Item arr[],
     return finalvalue;
 }
 
-// Driver Code
+/*
 int main()
 {
     // Weight of knapsack
@@ -87,5 +87,5 @@ int main()
          << fractionalKnapsack(arr, N, size);
     return 0;
 }
-
+*/
 

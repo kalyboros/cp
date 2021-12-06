@@ -51,7 +51,7 @@ int killMonster(int hp, int K, vector<int>dmg){
     return dmg.size();
 
 }
-
+/*
 int main(){
     cout<<"kill the monster\n";
 
@@ -65,3 +65,4 @@ int main(){
 
 
 }
+*/

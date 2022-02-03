@@ -2,7 +2,9 @@
 
 ## Table of contents:
 - Mathematical fundamentals
-- tbd
+- Greedy
+- Dynamic
+- Must have code snippets
 
 
 

@@ -16,7 +16,7 @@ struct Activity {
     {
     }
 };
-
+//this compares
 bool cmp(struct Activity a, struct Activity b)
 {
     //we sort by finish value
@@ -26,6 +26,7 @@ bool cmp(struct Activity a, struct Activity b)
     //invert this if you need ascending order
     return r1 < r2;
 }
+
 
 int findNumber(struct Activity arr[], int size){
     int ans = 0;

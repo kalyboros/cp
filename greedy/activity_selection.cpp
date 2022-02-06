@@ -16,7 +16,7 @@ struct Activity {
     {
     }
 };
-//this compares
+//this compares two structs and returns in descending order
 bool cmp(struct Activity a, struct Activity b)
 {
     //we sort by finish value

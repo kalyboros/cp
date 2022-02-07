@@ -8,6 +8,7 @@
 using namespace std;
 
 struct Activity {
+    //struct can be updated to autocast
     int start, finish;
 
     // Constructor

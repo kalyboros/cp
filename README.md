@@ -1,7 +1,6 @@
 # Competitive programming
 
-Slowly going through CSES CP book
-Alternatively, i tried CP3
+Slowly going through CSES CP book. Alternatively, i tried CP3.
 
 ## Sources and literature
 - <a href="https://cses.fi/book/book.pdf" target="_blank">CSES Book PDF</a>
